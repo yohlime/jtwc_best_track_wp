@@ -1,0 +1,20 @@
+[project]
+name = "jtwc-best-track-wp"
+version = "2023.0"
+description = "JTWC best track data for WP"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastparquet>=2024.11.0",
+    "httpx>=0.28.1",
+    "pandas>=2.3.2",
+    "pyarrow>=21.0.0",
+    "tqdm>=4.67.1",
+]
+
+[tool.ruff]
+target-version = "py312"
+
+[tool.basedpyright]
+pythonVersion = "3.12"
+typeCheckingMode = "standard"

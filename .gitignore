@@ -151,6 +151,16 @@ dmypy.json
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
 
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
+
 *.bak
 input/
 output/
