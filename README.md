@@ -2,7 +2,7 @@
 
 Information about the data can be found [here](https://www.metoc.navy.mil/jtwc/jtwc.html?western-pacific)
 
-Period: 1945 - 2022
+Period: 1945 - 2023
 
 **Columns extracted:**
 
